@@ -1,0 +1,5 @@
+# python virtualenv
+venv/
+
+# visual studio code config
+.vscode/
