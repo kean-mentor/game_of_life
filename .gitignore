@@ -3,3 +3,6 @@ venv/
 
 # visual studio code config
 .vscode/
+
+# idea config
+/.idea/
